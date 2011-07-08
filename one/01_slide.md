@@ -2,7 +2,7 @@
 ## Git, the fast version control system   
 ![g](git.png)
 !SLIDE center
-## This is just a show-it-off talk   
+## Just a show-it-off talk   
 ### about WHAT not HOW
 !SLIDE center
 ## So what is Git?
