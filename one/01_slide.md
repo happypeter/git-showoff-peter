@@ -5,6 +5,13 @@
 ## Just a show-it-off talk   
 ### about WHAT not HOW
 !SLIDE center
+## what git can do for me?
+ - help us keep the clue of our dev
+ - backup our data (with github)
+ - share code with people
+   - let people knows about our project( nice for resume)
+   - help collaboration ( most importantly)
+!SLIDE center
 ## what is a project?
 !SLIDE center
 ## A dir with subdir and files in it
@@ -14,9 +21,11 @@
 !SLIDE center
 # cp -r
 !SLIDE center
+![g](cp.jpg)
+!SLIDE center
 ## So what is Git?
 !SLIDE center
-## And someboady even says:
+## And somebody even says:
 ## git is the next unix
 <http://www.advogato.org/person/apenwarr/diary/371.html>
 !SLIDE center
