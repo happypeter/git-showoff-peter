@@ -5,6 +5,10 @@
 ## Just a show-it-off talk   
 ### about WHAT not HOW
 !SLIDE center
+## what is "Version Control"?
+!SLIDE center
+# cp -r
+!SLIDE center
 ## So what is Git?
 !SLIDE center
 ## And someboady even says:
