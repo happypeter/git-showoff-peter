@@ -5,6 +5,11 @@
 ## Just a show-it-off talk   
 ### about WHAT not HOW
 !SLIDE center
+## what is a project?
+!SLIDE center
+## A dir with subdir and files in it
+
+!SLIDE center
 ## what is "Version Control"?
 !SLIDE center
 # cp -r
