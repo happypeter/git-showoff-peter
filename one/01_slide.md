@@ -5,11 +5,9 @@
 ## Just a show-it-off talk   
 ### about WHAT not HOW
 !SLIDE center
-## what git can do for me?
-help us keep the clue of our dev
-backup our data (with github)
-let people knows about our project( nice for resume)
-help with collaboration ( most importantly)
+## So what is Git?
+!SLIDE center
+## Git is a Version Control System (VCS)
 !SLIDE center
 ## what is a project?
 !SLIDE center
@@ -18,36 +16,48 @@ help with collaboration ( most importantly)
 !SLIDE center
 ## what is "Version Control"?
 !SLIDE center
-# cp -r
+## cp -r
 !SLIDE center
 ![g](cp.jpg)
+
 !SLIDE center
-## So what is Git?
+## what git can do for me?
 !SLIDE center
-## And somebody even says:
+## version control
+### time machine, allow you to make mistakes
+!SLIDE center
+## Who, when, did what, and why
+### who(committer)
+### when(commit time)
+### what(the patch)
+### why( commit message)
+
+!SLIDE center
+## A typical workflow
+### mkdir myproject/
+### git init
+### git add 
+### git commit 
+!SLIDE center
+## who made this mistake?
+### tig blame xxx.c
+!SLIDE center
+## A beautiful history
+### gource ( show it with hen/)
+
+!SLIDE center
+## Github.com
+![github](github.png)
+
+### let people knows about our project( nice for resume)
+### help with collaboration ( most importantly)
+
+!SLIDE center
+# Where to learn more?
+!SLIDE center
 ## git is the next unix
 <http://www.advogato.org/person/apenwarr/diary/371.html>
 !SLIDE center
-## What git can do for me?
-!SLIDE center
-## version control
-time machine, allow you to make mistakes
-## date backup
-no more rsync
-## integrity verification
-no more md5sum
-## data sharing
-git clone
-!SLIDE center
-## Real case
-Why Peter (me) like git so much?
-## share data with students
-save whole lot of typing for my students.
-## backup all my code and docs
-Github is awesome. Social coding.
-## revisions via tig
-really neat
-!SLIDE center
-## But, there are other vcs tools there? 
+### But, there are other vcs tools there? 
 ## Yes, but Git is the best.
-## <http://whygitisbetterthanx.com/>
+### <http://whygitisbetterthanx.com/>

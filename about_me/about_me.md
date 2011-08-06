@@ -14,9 +14,6 @@
 
 #http://happypeter.org#
 !SLIDE  center
-
-# happypeter1983@gmail.com #
-!SLIDE  center
 ## Linus Torvalds
 ![l](linus_and_guys.jpeg)
 ## My Role Model for Career
