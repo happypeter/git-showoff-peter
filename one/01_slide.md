@@ -49,7 +49,7 @@
 ## Github.com
 ![github](github.png)
 
-### let people knows about our project( nice for resume)
+### let people know about our projects( nice for resume)
 ### help with collaboration ( most importantly)
 
 !SLIDE center
@@ -58,6 +58,6 @@
 ## git is the next unix
 <http://www.advogato.org/person/apenwarr/diary/371.html>
 !SLIDE center
-### But, there are other vcs tools there? 
+Are there any other VCS tools? 
 ## Yes, but Git is the best.
-### <http://whygitisbetterthanx.com/>
+<http://whygitisbetterthanx.com/>
