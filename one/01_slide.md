@@ -58,6 +58,9 @@
 ## git is the next unix
 <http://www.advogato.org/person/apenwarr/diary/371.html>
 !SLIDE center
+## a good book to start with
+<http://progit.org>
+!SLIDE center
 Are there any other VCS tools? 
 ## Yes, but Git is the best.
 <http://whygitisbetterthanx.com/>
